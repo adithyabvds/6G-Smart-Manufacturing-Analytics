@@ -3,13 +3,13 @@
 ## Live Demo & Project Video
 
 ### Streamlit Dashboard
-🔗 https://doi.org/10.5281/zenodo.21076024
+🔗 https://6g-smart-manufacturing-analytics.streamlit.app/
 
 ### Project Demonstration Video
 🎥 [Add your demo video link here]
 
 ### Research Report
-🔗 [Add your research report / DOI link here]
+🔗 https://doi.org/10.5281/zenodo.21076024
 
 ---
 
