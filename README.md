@@ -3,7 +3,7 @@
 ## Live Demo & Project Video
 
 ### Streamlit Dashboard
-🔗 [[https://doi.org/10.5281/zenodo.21076024]]
+🔗 [https://doi.org/10.5281/zenodo.21076024]
 
 ### Project Demonstration Video
 🎥 [Add your demo video link here]
